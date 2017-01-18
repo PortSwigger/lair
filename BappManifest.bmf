@@ -8,4 +8,4 @@ ProOnly: True
 Author: Dan Kottmann
 ShortDescription: Sends Burp Scanner issues directly to a remote Lair project.
 EntryPoint: build/libs/lair-all.jar
-BuildCommand: gradle -PburpJar=$BURP_JAR fatJar
+BuildCommand: gradle fatJar
