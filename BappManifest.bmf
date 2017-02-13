@@ -1,6 +1,7 @@
 Uuid: 16ac195454f8429baac1c5357b0d3952
 ExtensionType: 1
 Name: Lair
+RepoName: lair
 ScreenVersion: 1.1
 SerialVersion: 3
 MinPlatformVersion: 0
